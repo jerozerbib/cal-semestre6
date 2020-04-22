@@ -13,22 +13,22 @@
 ## Evaluations des cours 
 
 - SEN : 
--- Note finale : 75% contrôle continu + 20% laboratoire
--- Contrôle continu : 70%  présentations/capsule vidéo + Quiz 30%
--- Labos : 70 Mini-projet + 30% Maltego + SEToolkit
+	- Note finale : 75% contrôle continu + 20% laboratoire
+	- Contrôle continu : 70%  présentations/capsule vidéo + Quiz 30%
+	- Labos : 70 Mini-projet + 30% Maltego + SEToolkit
 - IED : 
--- 100% : travail envoyé
+	- 100% : travail envoyé
 - CLD : 
--- 2 TE + 1 présentation -> 60% 
--- 3 Labos notés -> 40%
+	- 2 TE + 1 présentation -> 60% 
+	- 3 Labos notés -> 40%
 - SCALA :
--- 2 TE -> 40%
--- 2 Labos notés + 1 Projet -> 60%
+	- 2 TE -> 40%
+	- 2 Labos notés + 1 Projet -> 60%
 - CAA :
--- Aucune info pour le moment
+	- Aucune info pour le moment
 - SWI :
--- 2 TE -> 70%
--- 3 Labos -> 30%
+	- 2 TE -> 70%
+	- 3 Labos -> 30%
 
 ## Deadlines
 
