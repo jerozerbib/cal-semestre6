@@ -36,9 +36,9 @@
 - **SWI**   : 27 avril 2020 @ 23h59 : Rendre labo WEP -> Mail à Yann et Abraham avec le lien du git, hash du commit
 - **SCALA** : 26 avril 2020 @ 23h59 : Rendre labo 3 : Anagrammes -> Cyberlearn
 - **CLD**   : 30 avril 2020 @ 10h25 : Rendre labo 4 -> Google App Engine sur Cyberlearn
-- **SWI**   : 4 mai 2020 @ 23h59 : Rendre labo WPA-PMKID -> mail à Yann et Abraham
 - **CAA**   : 24 mai 2020 @23h59    : Rendre labo 2 -> Cyberlearn
 - **SEN**   : 28 mai 2020 @ minuit : Rendre présentation -> Capsule vidéo de 10-15 mins + Powerpoint par email à Yann et Abraham
+- **SCALA** : 2 juin 2020 : TE -> pondération 40%
 - **SEN**   : 11 juin 2020 : Rendre mini-projet -> Mail à Yann et Abraham
 - **TB**    : 12 juin 2020 : Rapport intermédiaire -> Mail à l'enseignant 
 - **IED**   : 28 juin 2020 : Rendre travail -> Mail au [doyen](vincent.peiris@heig-vd.ch)
