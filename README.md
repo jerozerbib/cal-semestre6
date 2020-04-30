@@ -37,6 +37,7 @@
 - **SCALA** : 26 avril 2020 @ 23h59 : Rendre labo 3 : Anagrammes -> Cyberlearn
 - **CLD**   : 30 avril 2020 @ 10h25 : Rendre labo 4 -> Google App Engine sur Cyberlearn
 - **CLD**   : 7 mai 2020 @10h25     : Rendre labo 5 -> Cloud pricing sur Cyberlearn
+- **CLD**   : 12 mai 2020 @14h55    : TE de CLD -> Cyberlearn normalement
 - **CAA**   : 24 mai 2020 @23h59    : Rendre labo 2 -> Cyberlearn
 - **SEN**   : 28 mai 2020 @ minuit : Rendre présentation -> Capsule vidéo de 10-15 mins + Powerpoint par email à Yann et Abraham
 - **SCALA** : 2 juin 2020 : TE -> pondération 40%
