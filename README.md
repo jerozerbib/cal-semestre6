@@ -32,18 +32,26 @@
 
 ## Deadlines
 
-- **TB**    : 24 avril 2020 : Cahier des charges doit être fini et rentré sur GAPS
-- **SWI**   : 27 avril 2020 @ 23h59 : Rendre labo WEP -> Mail à Yann et Abraham avec le lien du git, hash du commit
-- **SCALA** : 26 avril 2020 @ 23h59 : Rendre labo 3 : Anagrammes -> Cyberlearn
-- **CLD**   : 30 avril 2020 @ 10h25 : Rendre labo 4 -> Google App Engine sur Cyberlearn
 - **CLD**   : 7 mai 2020 @10h25     : Rendre labo 5 -> Cloud pricing sur Cyberlearn
+- **Scala** : 10 mai 2020 : Etape 1 et 2 avec le tag `step2` 
 - **CLD**   : 12 mai 2020 @14h55    : TE de CLD -> Cyberlearn normalement
+- **Scala** : 17 mai 2020 : Etape 3 avec le tag `step3`
+- **CLD**   : 21 mai 2020 @ 10h25 : Rendre labo 6 -> Cyberlearn
 - **CAA**   : 24 mai 2020 @23h59    : Rendre labo 2 -> Cyberlearn
+- **SCALA** : 24 mai 2020 : Etapes 4 et 5 avec le tag `step5`
 - **SEN**   : 28 mai 2020 @ minuit : Rendre présentation -> Capsule vidéo de 10-15 mins + Powerpoint par email à Yann et Abraham
 - **SCALA** : 2 juin 2020 : TE -> pondération 40%
 - **SEN**   : 11 juin 2020 : Rendre mini-projet -> Mail à Yann et Abraham
-- **TB**    : 12 juin 2020 : Rapport intermédiaire -> Mail à l'enseignant 
+- **TB**    : 19 juin 2020 : Rapport intermédiaire -> Mail à l'enseignant 
 - **IED**   : 28 juin 2020 : Rendre travail -> Mail au [doyen](vincent.peiris@heig-vd.ch)
-- **TB**    : 24 juillet 2020 : Fin du TB -> Remise du TB au secrétariat
+- **TB**    : 31 juillet 2020 : Fin du TB -> Remise du TB au secrétariat
 - **TB**    : 11 septembre 2020 : Date limite de la soutenance
+
+
+## Done 
+
+- ~~ **TB**    : 24 avril 2020 : Cahier des charges doit être fini et rentré sur GAPS ~~
+- ~~ **SWI**   : 27 avril 2020 @ 23h59 : Rendre labo WEP -> Mail à Yann et Abraham avec le lien du git, hash du commit ~~
+- ~~ **SCALA** : 26 avril 2020 @ 23h59 : Rendre labo 3 : Anagrammes -> Cyberlearn ~~
+- ~~ **CLD**   : 30 avril 2020 @ 10h25 : Rendre labo 4 -> Google App Engine sur Cyberlearn ~~
 
