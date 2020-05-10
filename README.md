@@ -50,8 +50,8 @@
 
 ## Done 
 
-- ~~ **TB**    : 24 avril 2020 : Cahier des charges doit être fini et rentré sur GAPS ~~
-- ~~ **SWI**   : 27 avril 2020 @ 23h59 : Rendre labo WEP -> Mail à Yann et Abraham avec le lien du git, hash du commit ~~
-- ~~ **SCALA** : 26 avril 2020 @ 23h59 : Rendre labo 3 : Anagrammes -> Cyberlearn ~~
-- ~~ **CLD**   : 30 avril 2020 @ 10h25 : Rendre labo 4 -> Google App Engine sur Cyberlearn ~~
+- ~~**TB**    : 24 avril 2020 : Cahier des charges doit être fini et rentré sur GAPS~~
+- ~~**SWI**   : 27 avril 2020 @ 23h59 : Rendre labo WEP -> Mail à Yann et Abraham avec le lien du git, hash du commit~~
+- ~~**SCALA** : 26 avril 2020 @ 23h59 : Rendre labo 3 : Anagrammes -> Cyberlearn~~
+- ~~**CLD**   : 30 avril 2020 @ 10h25 : Rendre labo 4 -> Google App Engine sur Cyberlearn~~
 
