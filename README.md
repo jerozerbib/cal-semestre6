@@ -39,6 +39,7 @@
 - **CLD**   : 21 mai 2020 @ 10h25 : Rendre labo 6 -> Cyberlearn
 - **CAA**   : 24 mai 2020 @23h59    : Rendre labo 2 -> Cyberlearn
 - **SCALA** : 24 mai 2020 : Etapes 4 et 5 avec le tag `step5`
+- **SWI**   : 25 mai 2020 : TE1 -> MAC, WEP, WPA, WPA2 -> 13h15
 - **SEN**   : 28 mai 2020 @ minuit : Rendre présentation -> Capsule vidéo de 10-15 mins + Powerpoint par email à Yann et Abraham
 - **SCALA** : 2 juin 2020 : TE -> pondération 40%
 - **SEN**   : 11 juin 2020 : Rendre mini-projet -> Mail à Yann et Abraham
